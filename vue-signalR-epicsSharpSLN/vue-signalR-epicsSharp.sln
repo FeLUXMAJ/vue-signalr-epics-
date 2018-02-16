@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EPICSsharp", "..\EPICSsharp\EPICSsharp.csproj", "{ADF265CC-E887-4E35-BDD1-3DE93F9FD9D0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vue-signalR-epicsSharp", "..\LesulaSPA\vue-signalR-epicsSharp.csproj", "{F5D2F7A1-AE41-4FE8-A117-4B401CB5AA54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vue-signalR-epicsSharp", "..\vue-signalR-epicsSharp\vue-signalR-epicsSharp.csproj", "{3CFB2FCD-ED3A-4759-AB69-1D232B86E454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{ADF265CC-E887-4E35-BDD1-3DE93F9FD9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF265CC-E887-4E35-BDD1-3DE93F9FD9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF265CC-E887-4E35-BDD1-3DE93F9FD9D0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5D2F7A1-AE41-4FE8-A117-4B401CB5AA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5D2F7A1-AE41-4FE8-A117-4B401CB5AA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5D2F7A1-AE41-4FE8-A117-4B401CB5AA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5D2F7A1-AE41-4FE8-A117-4B401CB5AA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFB2FCD-ED3A-4759-AB69-1D232B86E454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFB2FCD-ED3A-4759-AB69-1D232B86E454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFB2FCD-ED3A-4759-AB69-1D232B86E454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFB2FCD-ED3A-4759-AB69-1D232B86E454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
