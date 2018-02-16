@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.SignalR;
 
-namespace LesulaSPA.Hubs
+namespace vueSignalREpicsSharp.Hubs
 {
     public class CAMonitorHub : Hub
     {

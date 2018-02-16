@@ -3,7 +3,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace LesulaSPA.Hubs.Services
+namespace vueSignalREpicsSharp.Hubs.Services
 {
     public class ClockService : BackgroundService
     {

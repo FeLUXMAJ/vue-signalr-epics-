@@ -5,10 +5,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Hosting;
-using LesulaSPA.Hubs.Services;
-using LesulaSPA.Hubs;
+using vueSignalREpicsSharp.Hubs.Services;
+using vueSignalREpicsSharp.Hubs;
 
-namespace LesulaSPA
+namespace vueSignalREpicsSharp
 {
     public class Startup
     {

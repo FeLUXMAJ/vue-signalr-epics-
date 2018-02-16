@@ -8,7 +8,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                <a class="navbar-brand" href="/">Lesula SPA</a>
+                <a class="navbar-brand" href="/">EPICS Web SPA</a>
             </div>
             <div class="clearfix"></div>
             <transition name="slide">
