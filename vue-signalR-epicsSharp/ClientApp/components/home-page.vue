@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>Monitoring</h1>
-        <h2>{{processVariable.name}} = {{processVariable.value}}</h2>
+        <!--<h2>{{processVariable.name}} = {{processVariable.value}}</h2>-->
         <p>Server time is: {{ticker}}</p>
     </div>
 </template>
