@@ -1,0 +1,31 @@
+#Ignore all EPICS specific generated files and binaries
+
+**envPaths
+**/configure/O.*/
+**/*App/Db/O.*/
+**/*App/src/O.*/
+**/dbd/
+**/bin/
+**/db/
+!**/*App/Db/
+**.log
+**.sav*
+**/.metadata/*
+**BOY Examples*
+**BOY Image Library/*
+
+#Linux
+
+**.swp
+**.*~
+
+#Ignore Visual Studio Code config files
+
+**/.vscode/
+
+#Ignore CSS BOY/Eclipse hidden files.
+
+.settings/
+*.prefs
+.project
+.classpath
