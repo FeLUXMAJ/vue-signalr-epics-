@@ -1,0 +1,10 @@
+record(longout, "sim:counter_rbv")
+{
+    field(PINI, "YES")
+}
+
+record(calc, "sim:calc_countup")
+{
+    field(INPA, "Console.WriteLine("{0}: {1}", sender.ChannelName, newValue) ;")
+}
+

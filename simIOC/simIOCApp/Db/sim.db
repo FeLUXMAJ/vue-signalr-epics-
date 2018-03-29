@@ -1,0 +1,11 @@
+record(longout, "sim:count")
+{
+    field(SCAN, "1 second")
+    field(FLNK, "sim:calc_countup PP")
+}
+record(calcout, "sim:calc_countup")
+{
+    field(INPA, "sim:count NPP")
+    field(CALC, "A+1")
+    field(OUT, "sim:count NPP")
+}
